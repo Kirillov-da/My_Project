@@ -1,1 +1,2 @@
 Test file txt 3
+This file was  modified in the feature branch
